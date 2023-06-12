@@ -4,5 +4,5 @@ Proyecto para el curso propedéutico de Probabilidad y Estadística para la MCD-
 ### Caso de Estudio: Evolución de los Pinzones de Darwin
 
 # Integrantes
-- Jesus Martin Gaytan
-- José Alberto Leyva
+- Jesús Martín Gaytán Villarreal
+- José Alberto Leyva Contreras
